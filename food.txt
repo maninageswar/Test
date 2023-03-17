@@ -6,4 +6,4 @@ amend2
 duck1
 duck2
 hi this is foood file
-branch1 user edited this food txt
+branch1 user edited this food txt.
