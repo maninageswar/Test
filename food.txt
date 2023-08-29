@@ -16,3 +16,4 @@ zebra2
 fox1
 fox2
 parrot1
+rhino1
