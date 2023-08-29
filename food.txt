@@ -7,3 +7,4 @@ duck1
 duck2
 duck3
 duck4
+lion1
