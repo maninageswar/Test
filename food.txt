@@ -1,2 +1,5 @@
 mani hi this is food file
-add1
+add0
+food
+amend1
+amend2
