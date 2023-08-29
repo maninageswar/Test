@@ -4,3 +4,4 @@ food
 amend1
 amend2
 cat1
+cat2
