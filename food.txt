@@ -19,3 +19,4 @@ parrot1
 rhino1
 rhino2
 leapord1
+leapord2
